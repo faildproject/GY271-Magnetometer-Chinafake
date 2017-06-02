@@ -1,0 +1,5 @@
+<map id="MechaQMC5883::WriteReg" name="MechaQMC5883::WriteReg">
+<area shape="rect" id="node2" href="$class_mecha_q_m_c5883.html#a162e10a0159ee58760a2537c0120b4c8" title="MechaQMC5883::init" alt="" coords="465,5,609,32"/>
+<area shape="rect" id="node3" href="$class_mecha_q_m_c5883.html#a763f461352665eebcc4c319aa8df3d42" title="MechaQMC5883::setMode" alt="" coords="237,31,415,57"/>
+<area shape="rect" id="node4" href="$class_mecha_q_m_c5883.html#a3e44f5e05a390c71ff864a1d809c8b4f" title="MechaQMC5883::softReset" alt="" coords="235,81,417,108"/>
+</map>

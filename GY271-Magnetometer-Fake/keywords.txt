@@ -1,0 +1,66 @@
+﻿#######################################
+# Syntax Coloring Map For Matrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)Orange
+#######################################
+
+MechaQMC5883	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)Orange
+#######################################
+
+init	KEYWORD2
+setMode	KEYWORD2
+setCalibValues	KEYWORD2
+getRaw	KEYWORD2
+
+get_Gaus	KEYWORD2
+get_mT	KEYWORD2
+get_uT	KEYWORD2
+
+calc_Gaus	KEYWORD2
+calc_mT	KEYWORD2
+calc_uT	KEYWORD2
+
+print_Raw	KEYWORD2
+print_Gaus	KEYWORD2
+print_mT	KEYWORD2
+print_uT	KEYWORD2
+
+getRawT	KEYWORD2
+get_T	KEYWORD2
+calc_T	KEYWORD2
+print_RawT	KEYWORD2
+print_T	KEYWORD2
+
+softReset	KEYWORD2
+
+setAddress	KEYWORD2
+writeReg	KEYWORD2
+print_float	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)Blue
+#######################################
+
+Mode_Standby	LITERAL1
+Mode_Continuous	LITERAL1
+
+ODR_10Hz	LITERAL1
+ODR_50Hz	LITERAL1
+ODR_100Hz	LITERAL1
+ODR_200Hz	LITERAL1
+
+RNG_2G	LITERAL1
+RNG_8G	LITERAL1
+
+OSR_512	LITERAL1
+OSR_256	LITERAL1
+OSR_128	LITERAL1
+OSR_64	LITERAL1
+
+RAWDATA	LITERAL1
+FLOATDATA	LITERAL1
